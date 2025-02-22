@@ -1,19 +1,19 @@
 # Playground for Agent
 
 ## Overview
-このリポジトリはエージェント関連の実験と検証のためのサンドボックス環境です。
+This repository serves as a sandbox environment for experiments and validation related to agents.
 
 ## Features
-- エージェントテスティングフレームワーク
-- 実験的なツールとスクリプト
+- Agent Testing Framework
+- Experimental Tools and Scripts
 
 ## Getting Started
-1. リポジトリをクローン
-2. 利用可能なツールを探索
-3. 独自の実験を貢献
+1. Clone the repository
+2. Explore available tools
+3. Contribute your own experiments
 
 ## Contributing
-課題の報告やプルリクエストを歓迎します。
+We welcome issue reports and pull requests.
 
 ## License
-未定義
+To be determined
